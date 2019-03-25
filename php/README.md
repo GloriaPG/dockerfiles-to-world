@@ -14,5 +14,5 @@ $ docker push ip-or-domain-registry:port/myuser/php:v1.0
 # How to run container?
 ```{r, engine='bash', count_lines}
 $ cd php
-$ docker run -d -p 8080:80 gloriapg/php:v1.0 
+$ docker run -d -p 8080:80 gloriapg/php:v1.0
 ```
